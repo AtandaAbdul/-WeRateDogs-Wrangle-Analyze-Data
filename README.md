@@ -13,6 +13,10 @@ The cleaned data was then analyzed and visualized in the Jupyter Notebook, produ
 
 Overall, this project involved a thorough data wrangling process, using various Python libraries to gather, assess, clean, analyze, and visualize the data, resulting in valuable insights and visualizations.
 
-Feedback
+**Acknowledgements**<br/>
+[Udacity](https://udacity.com/)<br/>
+[@dog_rates](https://twitter.com/dog_rates)
+
+**Feedback**
 
 If you have any feedback, please reach out to me at abdulhafizatanda@gmail.com
