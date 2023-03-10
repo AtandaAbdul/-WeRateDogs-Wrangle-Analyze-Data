@@ -1,1 +1,3 @@
 # -WeRateDogs-Wrangle-Analyze-Data
+
+The dataset I worked on involved analyzing and visualizing tweets from the popular Twitter account @dog_rates, also known as WeRateDogs. This account rates people's dogs with a humorous comment and a rating system that usually has a denominator of 10, but the numerators are almost always greater than 10. The reason for this is because "they're good dogs Brent." WeRateDogs has over 4 million followers and has gained international media attention. The Twitter archive, which contains basic tweet data, was provided exclusively for this project by WeRateDogs and includes all 5000+ tweets as of August 1, 2017.
