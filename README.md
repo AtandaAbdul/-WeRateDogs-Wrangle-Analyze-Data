@@ -9,6 +9,10 @@ The main tasks in this project involve data wrangling, including gathering data,
 
 After gathering the data, it was assessed both visually and programmatically for quality and tidiness issues. Issues were documented, and then cleaning was performed to address those issues. The result was a high-quality and tidy master pandas DataFrame.
 
-The cleaned data was then analyzed and visualized in the Jupyter Notebook, producing at least five insights and six visualizations. Additionally, two written reports were created: one that briefly described the wrangling efforts, and another that communicated the insights and visualizations produced from the cleaned data.
+The cleaned data was then analyzed and visualized in the Jupyter Notebook, producing numerous insights and visualizations. Additionally, two written reports were created: _**Wrangle_report.pdf**_, that briefly described the wrangling efforts, and another _**act_report.pdf**_ that communicated the insights and visualizations produced from the cleaned data.
 
 Overall, this project involved a thorough data wrangling process, using various Python libraries to gather, assess, clean, analyze, and visualize the data, resulting in valuable insights and visualizations.
+
+Feedback
+
+If you have any feedback, please reach out to me at abdulhafizatanda@gmail.com
